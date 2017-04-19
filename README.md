@@ -1,1 +1,2 @@
-# group_7_project
+# Group 7 Project
+# Course/Grade Tracker and GPA Calculator
